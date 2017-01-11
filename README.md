@@ -1,7 +1,6 @@
-# json_counter
+# Json Counter 
 Counts number of JSON objects
 
-1. Clone the repo
-2. Run the script giving the json file as argument (or try `ruby json_counter.rb example_payload.json`)
-3. ????
-4. PROFIT
+1. Clone the repo and `cd` into it
+2. Run the script giving the example json file as argument (paste `ruby json_counter.rb example_payload.json` into your shell)
+3. If that works fine, try your own JSON file. You will need to change the values (`response` and `venues`) in `json_counter.rb`
